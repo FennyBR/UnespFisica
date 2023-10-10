@@ -1,4 +1,4 @@
-# Olá, Mundo!
- Meu primeiro repositório.
- Repositório criado com o curso de Git e GitHub do Curso em Video.
- Teste de alteração direto no site do GitHub.
+# Linguagem Computacional - Python
+Atividades realizadas na disciplina de Linguagem Computacional 
+do curso de Física da UNESP (Ibilce) no ano de 2023, utilizando 
+a linguagem Python.
